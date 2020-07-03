@@ -1,0 +1,48 @@
+
+
+
+.shift
+{
+left:0;
+}
+.image
+{
+    background-color: rgb(4, 4, 22);
+    text-align:center;
+    height:"400%";
+}
+.image1
+{
+text-align:right;
+}
+.star
+{
+    text-align:center;
+    text-shadow: 3px 2px rgb(3, 36, 3);
+
+}
+.star1
+{
+    text-align:center;
+    text-shadow: 3px 2px rgb(3, 36, 3);
+
+
+
+}
+.star2
+{
+    text-align:center;
+
+}
+.image4
+{
+text-align:left;
+}
+.image3
+{
+text-align:right;
+}
+.rainbow
+{
+    text-align:center;
+}
